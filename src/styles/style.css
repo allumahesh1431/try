@@ -1,0 +1,12 @@
+.main{
+    background-color: rgb(183, 212, 226);
+    width: 1000px;
+    height: 400px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-style: solid;
+    
+    
+}
